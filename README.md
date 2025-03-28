@@ -1,4 +1,4 @@
-# Tesla Data Analysis
+# Analyzing-Historical-Stock-Revenue-Data
 
 This project analyzes Tesla's stock and revenue data, providing insights through data visualization and analysis.
 
